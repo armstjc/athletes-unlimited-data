@@ -1,0 +1,46 @@
+sport,season,seasonId,playerId,first_name,last_name,full_name,G,sets_played,kills,attack_errors,attack_attempts,assists,setting_errors,service_errors,service_aces,total_reception_attempts,reception_errors,digs,blocks,au_total_points,kills_per_set,attack_percentage,assists_per_set,service_aces_per_set,digs_per_set,blocks_per_set
+volleyball,2021,3,55,Jordan,Larson,Jordan Larson,15,45,213,79,581,37,0,15,15,126,3,190,19,4569,4.733,0.231,0.822,0.333,4.222,0.422
+volleyball,2021,3,56,Molly,McCage,Molly McCage,15,45,117,26,233,3,0,16,3,0,0,24,26,2247,2.6,0.391,0.067,0.067,0.533,0.578
+volleyball,2021,3,58,Tiffany,Clark,Tiffany Clark,15,45,0,0,0,28,0,0,0,353,13,173,0,2529,0.0,,0.622,0.0,3.844,0.0
+volleyball,2021,3,59,Karsta,Lowe,Karsta Lowe,15,45,230,74,558,7,2,13,4,1,1,131,17,3566,5.111,0.28,0.156,0.089,2.911,0.378
+volleyball,2021,3,60,Amanda,Peterson,Amanda Peterson,8,17,0,0,0,5,0,1,1,0,0,8,0,1049,0.0,,0.294,0.059,0.471,0.0
+volleyball,2021,3,62,Kristen,Tupac,Kristen Tupac,15,45,0,0,0,31,0,0,0,390,9,200,0,2825,0.0,,0.689,0.0,4.444,0.0
+volleyball,2021,3,64,Cassidy,Lichtman,Cassidy Lichtman,12,36,66,20,232,5,0,0,8,228,5,114,5,2123,1.833,0.198,0.139,0.222,3.167,0.139
+volleyball,2021,3,66,Valerie,Nichol,Valerie Nichol,5,10,6,1,11,80,0,1,0,0,0,26,1,1010,0.6,0.455,8.0,0.0,2.6,0.1
+volleyball,2021,3,67,Katie,Carter,Katie Carter,13,29,25,15,99,1,0,7,3,0,0,36,1,1393,0.862,0.101,0.034,0.103,1.241,0.034
+volleyball,2021,3,68,Deja,McClendon,Deja McClendon,15,44,118,58,342,9,0,13,9,326,19,128,14,3127,2.682,0.175,0.205,0.205,2.909,0.318
+volleyball,2021,3,70,Molly,Lohman,Molly Lohman,14,40,2,2,11,1,0,5,6,0,0,14,4,2003,0.05,0.0,0.025,0.15,0.35,0.1
+volleyball,2021,3,71,Erin,Fairs,Erin Fairs,11,24,22,21,75,3,0,5,5,97,6,32,3,1279,0.917,0.013,0.125,0.208,1.333,0.125
+volleyball,2021,3,74,Nia,Grant,Nia Grant,15,44,63,20,142,3,1,2,0,0,0,16,22,2323,1.432,0.303,0.068,0.0,0.364,0.5
+volleyball,2021,3,77,Erica,Handley,Erica Handley,5,8,2,0,2,20,0,1,0,0,0,2,1,1290,0.25,1.0,2.5,0.0,0.25,0.125
+volleyball,2021,3,78,Sareea,Freeman,Sareea Freeman,6,12,4,1,6,0,0,1,1,0,0,6,2,1798,0.333,0.5,0.0,0.083,0.5,0.167
+volleyball,2021,3,81,Sherridan,Atkinson,Sherridan Atkinson,14,37,113,35,329,1,1,7,1,0,0,85,18,2230,3.054,0.237,0.027,0.027,2.297,0.486
+volleyball,2021,3,88,Taylor,Morgan,Taylor Morgan,15,45,82,16,168,2,0,10,2,0,0,37,23,2551,1.822,0.393,0.044,0.044,0.822,0.511
+volleyball,2021,3,89,Brie,King,Brie King,15,45,20,3,50,570,0,7,9,0,0,177,17,3675,0.444,0.34,12.667,0.2,3.933,0.378
+volleyball,2021,3,90,Sheilla,Castro,Sheilla Castro,15,39,100,34,330,6,0,11,3,2,0,76,12,2350,2.564,0.2,0.154,0.077,1.949,0.308
+volleyball,2021,3,91,Aury,Cruz,Aury Cruz,14,42,171,54,418,13,1,9,10,145,5,117,9,3582,4.071,0.28,0.31,0.238,2.786,0.214
+volleyball,2021,3,112,Kaylee,Manns,Kaylee Manns,13,33,13,2,24,313,1,4,0,0,0,69,1,2406,0.394,0.458,9.485,0.0,2.091,0.03
+volleyball,2021,3,113,Alex,Holston,Alex Holston,9,21,44,15,121,2,0,1,1,0,0,17,5,1863,2.095,0.24,0.095,0.048,0.81,0.238
+volleyball,2021,3,114,Lianna,Sybeldon,Lianna Sybeldon,15,45,84,13,199,3,0,7,7,1,0,37,27,2798,1.867,0.357,0.067,0.156,0.822,0.6
+volleyball,2021,3,115,Samantha,Seliger-Swenson,Samantha Seliger-Swenson,14,40,16,3,43,429,0,4,9,0,0,133,4,2390,0.4,0.302,10.725,0.225,3.325,0.1
+volleyball,2021,3,116,Nomaris,Vélez Agosto,Nomaris Vélez Agosto,15,45,0,0,0,26,0,0,0,211,10,176,0,2434,0.0,,0.578,0.0,3.911,0.0
+volleyball,2021,3,117,Taylor,Bruns,Taylor Bruns,11,29,7,3,36,297,0,3,5,0,0,51,3,1704,0.241,0.111,10.241,0.172,1.759,0.103
+volleyball,2021,3,118,Lauren,Gibbemeyer,Lauren Gibbemeyer,15,45,95,17,225,6,1,7,8,0,0,21,33,2891,2.111,0.347,0.133,0.178,0.467,0.733
+volleyball,2021,3,119,Dalianliz,Rosado,Dalianliz Rosado,15,45,0,0,0,38,0,0,0,328,21,165,0,2199,0.0,,0.844,0.0,3.667,0.0
+volleyball,2021,3,120,Lindsay,Stalzer,Lindsay Stalzer,15,43,90,43,293,3,0,9,3,436,16,116,18,2745,2.093,0.16,0.07,0.07,2.698,0.419
+volleyball,2021,3,121,Ali,Bastianelli,Ali Bastianelli,12,35,46,23,122,1,0,17,3,0,0,18,24,1291,1.314,0.189,0.029,0.086,0.514,0.686
+volleyball,2021,3,122,Ebony,Nwanebu,Ebony Nwanebu,15,45,167,62,477,5,0,7,4,0,0,126,21,3031,3.711,0.22,0.111,0.089,2.8,0.467
+volleyball,2021,3,128,Bethania,De La Cruz,Bethania De La Cruz,15,45,193,51,499,9,0,22,14,171,6,117,8,3690,4.289,0.285,0.2,0.311,2.6,0.178
+volleyball,2021,3,131,Erica,Wilson,Erica Wilson,5,9,12,7,32,0,0,0,1,35,6,7,0,1859,1.333,0.156,0.0,0.111,0.778,0.0
+volleyball,2021,3,132,Odina,Aliyeva,Odina Aliyeva,12,25,32,15,108,4,0,5,0,157,5,42,7,1154,1.28,0.157,0.16,0.0,1.68,0.28
+volleyball,2021,3,139,Symone,Abbott,Symone Abbott,15,42,118,51,333,6,0,14,2,371,18,108,5,1914,2.81,0.201,0.143,0.048,2.571,0.119
+volleyball,2021,3,140,Taylor,Sandbothe,Taylor Sandbothe,15,45,68,22,187,9,0,16,14,0,0,34,28,2315,1.511,0.246,0.2,0.311,0.756,0.622
+volleyball,2021,3,141,Leah,Edmond,Leah Edmond,12,36,123,43,337,4,0,9,9,294,15,100,22,2260,3.417,0.237,0.111,0.25,2.778,0.611
+volleyball,2021,3,143,Holly,Toliver,Holly Toliver,14,36,4,2,11,2,1,15,4,51,6,27,1,1461,0.111,0.182,0.056,0.111,0.75,0.028
+volleyball,2021,3,144,Ci,Michel,Ci Michel,1,2,0,0,0,0,0,0,0,0,0,0,0,1360,0.0,,0.0,0.0,0.0,0.0
+volleyball,2021,3,146,Willow,Johnson,Willow Johnson,8,17,59,26,185,1,0,2,1,0,0,35,5,1072,3.471,0.178,0.059,0.059,2.059,0.294
+volleyball,2021,3,147,Cori,Crocker,Cori Crocker,15,45,68,14,156,7,2,9,4,0,0,32,29,1603,1.511,0.346,0.156,0.089,0.711,0.644
+volleyball,2021,3,148,Kelly,Hunter,Kelly Hunter,15,43,20,5,49,415,0,7,9,0,0,132,15,3027,0.465,0.306,9.651,0.209,3.07,0.349
+volleyball,2021,3,149,Kristy,Wieser,Kristy Wieser,2,5,1,1,3,0,0,2,0,0,0,2,2,1134,0.2,0.0,0.0,0.0,0.4,0.4
+volleyball,2021,3,150,Briana,Holman,Briana Holman,3,4,11,1,24,0,0,1,0,0,0,2,1,570,2.75,0.417,0.0,0.0,0.5,0.25
+volleyball,2021,3,151,Kylie,Pickrell,Kylie Pickrell,1,1,0,0,0,0,0,0,0,0,0,0,0,1280,0.0,,0.0,0.0,0.0,0.0
