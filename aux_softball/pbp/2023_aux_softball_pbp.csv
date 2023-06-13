@@ -1,0 +1,176 @@
+season,game_id,game_number,play_seq_num,narrative,home_team_id,home_team_score,away_team_id,away_team_score,offensive_team_id,offensive_team_score,defensive_team_id,defensive_team_score,inning,top_bottom_flag,outs,winning_team_id,action,hit_location,hit_location_description,batter_id,pitcher_id
+2023,442,1,-1,Start of game,366,0,367,0,367,0,366,0,1,True,0,,,,,,
+2023,442,1,1,V Hayward walked (3-0 BBBB).,366,0,367,0,367,0,366,0,1,True,0,,BB,0,,3,659
+2023,442,1,2,"A Leach singled to pitcher, bunt (0-0); V Hayward advanced to second.",366,0,367,0,367,0,366,0,1,True,0,,1B 1 BU,1,pitcher,69,659
+2023,442,1,3,C Clifton reached on a fielder's choice (1-2 BKF); A Leach out at second 2b to ss; V Hayward advanced to third.,366,0,367,0,367,0,366,0,1,True,0,,FC,0,,22,659
+2023,442,1,4,"D Mulipola flied out to rf, SF, RBI (2-2 BKFB); V Hayward scored.",366,0,367,1,367,1,366,0,1,True,1,367,F9 SF RBI,9,,199,659
+2023,442,1,5,T Vidales fouled out to 3b (0-2 FF).,366,0,367,1,367,1,366,0,1,True,2,367,FF5,5,,29,659
+2023,442,1,6,"H McCleney homered to right field, RBI (3-2 BSBSB).",366,1,367,1,366,1,367,1,1,False,0,,HR 9 RBI,9,right field,28,10
+2023,442,1,7,S Bates walked (3-0 BBBB).,366,1,367,1,366,1,367,1,1,False,0,,BB,0,,198,10
+2023,442,1,8,"A Lorenz doubled to center field, RBI (0-1 K); S Bates scored.",366,2,367,1,366,2,367,1,1,False,0,366,2B 8 RBI,8,center field,159,10
+2023,442,1,9,S Rhodes struck out swinging (1-2 BKFS).,366,2,367,1,366,2,367,1,1,False,0,366,KS,0,,297,10
+2023,442,1,10,S Fischer grounded out to 3b (0-1 S).,366,2,367,1,366,2,367,1,1,False,1,366,53,5,,37,10
+2023,442,1,11,D Gibson struck out looking (1-2 KBSFK).,366,2,367,1,366,2,367,1,1,False,2,366,KL,0,,308,10
+2023,442,1,12,K Stewart-Hu lined out to 1b (1-1 BK).,366,2,367,1,367,1,366,2,2,True,0,366,L3,3,,38,659
+2023,442,1,13,A Ocasio flied out to rf (2-2 KBFBF).,366,2,367,1,367,1,366,2,2,True,1,366,F9,9,,10,659
+2023,442,1,14,C Gano singled up the middle (1-1 KB).,366,2,367,1,367,1,366,2,2,True,2,366,1B MI,8,middle,167,659
+2023,442,1,15,J Jackson struck out swinging (0-2 KSS).,366,2,367,1,367,1,366,2,2,True,2,366,KS,0,,54,659
+2023,442,1,16,R Garcia flied out to cf (1-0 B).,366,2,367,1,366,2,367,1,2,False,0,366,F8,8,,278,10
+2023,442,1,17,S Palacios struck out looking (1-2 KFBK).,366,2,367,1,366,2,367,1,2,False,1,366,KL,0,,7,10
+2023,442,1,18,A Ramirez struck out swinging (2-2 SBBFFS).,366,2,367,1,366,2,367,1,2,False,2,366,KS,0,,12,10
+2023,442,1,19,V Hayward grounded out to p (0-2 KK).,366,2,367,1,367,1,366,2,3,True,0,366,13,1,,3,659
+2023,442,1,20,"A Leach homered to right field, RBI (0-1 F).",366,2,367,2,367,2,366,2,3,True,1,,HR 9 RBI,9,right field,69,659
+2023,442,1,21,C Clifton flied out to cf (2-0 BB).,366,2,367,2,367,2,366,2,3,True,1,,F8,8,,22,659
+2023,442,1,22,D Mulipola flied out to cf (0-0).,366,2,367,2,367,2,366,2,3,True,2,,F8,8,,199,659
+2023,442,1,23,H McCleney grounded out to p (0-1 K).,366,2,367,2,366,2,367,2,3,False,0,,13,1,,28,10
+2023,442,1,24,S Bates struck out swinging (1-2 BSKS).,366,2,367,2,366,2,367,2,3,False,1,,KS,0,,198,10
+2023,442,1,25,A Lorenz walked (3-1 BKBBB).,366,2,367,2,366,2,367,2,3,False,2,,BB,0,,159,10
+2023,442,1,26,S Rhodes flied out to lf (0-0).,366,2,367,2,366,2,367,2,3,False,2,,F7,7,,297,10
+2023,442,1,27,T Edwards to c for S Palacios.,366,2,367,2,367,2,366,2,4,True,0,,,,,,
+2023,442,1,28,O Alexander to p for B Yanez.,366,2,367,2,367,2,366,2,4,True,0,,,,,,
+2023,442,1,29,T Vidales doubled (2-1 BBF).,366,2,367,2,367,2,366,2,4,True,0,,2B,0,,29,169
+2023,442,1,30,K Stewart-Hu singled to center field (0-0); T Vidales advanced to third.,366,2,367,2,367,2,366,2,4,True,0,,1B 8,8,center field,38,169
+2023,442,1,31,"A Ocasio flied out to cf, SF, RBI (2-2 BKFBF); T Vidales scored.",366,2,367,3,367,3,366,2,4,True,0,367,F8 SF RBI,8,,10,169
+2023,442,1,32,K Stewart-Hu advanced to second on a wild pitch.,366,2,367,3,367,3,366,2,4,True,1,367,,,,,
+2023,442,1,33,"C Gano doubled, RBI (3-2 BBKBF); K Stewart-Hu scored.",366,2,367,4,367,4,366,2,4,True,1,367,2B RBI,0,,167,169
+2023,442,1,34,J Jackson walked (3-2 BBBKFFFB).,366,2,367,4,367,4,366,2,4,True,1,367,BB,0,,54,169
+2023,442,1,35,R Garcia to p.,366,2,367,4,367,4,366,2,4,True,1,367,,,,,
+2023,442,1,36,/  for O Alexander.,366,2,367,4,367,4,366,2,4,True,1,367,,,,,
+2023,442,1,37,V Hayward walked (3-2 BBFBSB); J Jackson advanced to second; C Gano advanced to third.,366,2,367,4,367,4,366,2,4,True,1,367,BB,0,,3,278
+2023,442,1,38,A Leach struck out swinging (3-2 KBBBSS).,366,2,367,4,367,4,366,2,4,True,1,367,KS,0,,69,278
+2023,442,1,39,"C Clifton hit by pitch, RBI (0-1 S); V Hayward advanced to second; J Jackson advanced to third; C Gano scored.",366,2,367,5,367,5,366,2,4,True,2,367,HBP RBI,0,,22,278
+2023,442,1,40,D Mulipola struck out swinging (3-2 KFBBBFS).,366,2,367,5,367,5,366,2,4,True,2,367,KS,0,,199,278
+2023,442,1,41,S Fischer walked (3-1 KBBBB).,366,2,367,5,366,2,367,5,4,False,0,367,BB,0,,37,10
+2023,442,1,42,D Gibson singled up the middle (1-1 BK); S Fischer advanced to second.,366,2,367,5,366,2,367,5,4,False,0,367,1B MI,8,middle,308,10
+2023,442,1,43,R Garcia lined into double play 2b to ss (1-0 B); S Fischer out on the play.,366,2,367,5,366,2,367,5,4,False,0,367,L46 DP,4,,278,10
+2023,442,1,44,"T Edwards homered to left field, 2 RBI (0-0); D Gibson scored.",366,4,367,5,366,4,367,5,4,False,2,367,HR 7 RBI2,7,left field,46,10
+2023,442,1,45,A Ocasio to rf.,366,4,367,5,366,4,367,5,4,False,2,367,,,,,
+2023,442,1,46,M Faraimo to p for N Mendes.,366,4,367,5,366,4,367,5,4,False,2,367,,,,,
+2023,442,1,47,L Piper pinch hit for A Ramirez.,366,4,367,5,366,4,367,5,4,False,2,367,,,,,
+2023,442,1,48,L Piper grounded out to 2b (0-0).,366,4,367,5,366,4,367,5,4,False,2,367,43,4,,31,656
+2023,442,1,49,A Ramirez to 2b for L Piper.,366,4,367,5,367,5,366,4,5,True,0,367,,,,,
+2023,442,1,50,T Vidales struck out looking (2-2 BFFBK).,366,4,367,5,367,5,366,4,5,True,0,367,KL,0,,29,278
+2023,442,1,51,K Stewart-Hu flied out to lf (0-2 KF).,366,4,367,5,367,5,366,4,5,True,1,367,F7,7,,38,278
+2023,442,1,52,A Ocasio struck out swinging (2-2 BSBKS).,366,4,367,5,367,5,366,4,5,True,2,367,KS,0,,10,278
+2023,442,1,53,H McCleney struck out swinging (1-2 KKBS).,366,4,367,5,366,4,367,5,5,False,0,367,KS,0,,28,656
+2023,442,1,54,S Bates singled up the middle (0-2 FK).,366,4,367,5,366,4,367,5,5,False,1,367,1B MI,8,middle,198,656
+2023,442,1,55,A Lorenz reached on a fielder's choice (3-2 KKBFBB); S Bates out at second ss to 2b.,366,4,367,5,366,4,367,5,5,False,1,367,FC,0,,159,656
+2023,442,1,56,S Rhodes popped up to p (0-1 K).,366,4,367,5,366,4,367,5,5,False,2,367,P1,1,,297,656
+2023,442,1,57,C Gano singled through the right side (1-1 KB).,366,4,367,5,367,5,366,4,6,True,0,367,1B RS,9,right side,167,278
+2023,442,1,58,J Jackson struck out looking (1-2 KFBFK).,366,4,367,5,367,5,366,4,6,True,0,367,KL,0,,54,278
+2023,442,1,59,V Hayward walked (3-2 FBBKBFB); C Gano advanced to second.,366,4,367,5,367,5,366,4,6,True,1,367,BB,0,,3,278
+2023,442,1,60,A Leach grounded out to ss (1-2 SBFF); V Hayward advanced to second; C Gano advanced to third.,366,4,367,5,367,5,366,4,6,True,1,367,63,6,,69,278
+2023,442,1,61,C Clifton hit by pitch (1-0 B).,366,4,367,5,367,5,366,4,6,True,2,367,HBP,0,,22,278
+2023,442,1,62,D Mulipola popped up to 2b (0-0).,366,4,367,5,367,5,366,4,6,True,2,367,P4,4,,199,278
+2023,442,1,63,K Stewart-Hu to dp.,366,4,367,5,366,4,367,5,6,False,0,367,,,,,
+2023,442,1,64,C Gano to 3b.,366,4,367,5,366,4,367,5,6,False,0,367,,,,,
+2023,442,1,65,S Fischer lined out to lf (3-1 BBFB).,366,4,367,5,366,4,367,5,6,False,0,367,L7,7,,37,656
+2023,442,1,66,D Gibson flied out to lf (1-0 B).,366,4,367,5,366,4,367,5,6,False,1,367,F7,7,,308,656
+2023,442,1,67,R Garcia flied out to lf (0-1 K).,366,4,367,5,366,4,367,5,6,False,2,367,F7,7,,278,656
+2023,442,1,68,T Vidales popped up to 3b (1-0 B).,366,4,367,5,367,5,366,4,7,True,0,367,P5,5,,29,278
+2023,442,1,69,K Stewart-Hu reached on a fielding error by p (0-0).,366,4,367,5,367,5,366,4,7,True,1,367,E1F,1,,38,278
+2023,442,1,70,J Roberts pinch hit for A Ocasio.,366,4,367,5,367,5,366,4,7,True,1,367,,,,,
+2023,442,1,71,J Roberts struck out swinging (1-2 BFFS).,366,4,367,5,367,5,366,4,7,True,1,367,KS,0,,34,278
+2023,442,1,72,C Gano grounded out to 3b (1-1 BS).,366,4,367,5,367,5,366,4,7,True,2,367,53,5,,167,278
+2023,442,1,73,A Ocasio to rf for J Roberts.,366,4,367,5,366,4,367,5,7,False,0,367,,,,,
+2023,442,1,74,T Edwards singled to pitcher (2-2 BKBFFF).,366,4,367,5,366,4,367,5,7,False,0,367,1B 1,1,pitcher,46,656
+2023,442,1,75,S Palacios pinch ran for T Edwards.,366,4,367,5,366,4,367,5,7,False,0,367,,,,,
+2023,442,1,76,A Ramirez struck out looking (1-2 SBSK).,366,4,367,5,366,4,367,5,7,False,0,367,KL,0,,12,656
+2023,442,1,77,H McCleney struck out swinging (3-2 BKBBSS).,366,4,367,5,366,4,367,5,7,False,1,367,KS,0,,28,656
+2023,442,1,78,S Bates fouled out to lf (0-0).,366,4,367,5,366,4,367,5,7,False,2,367,FF7,7,,198,656
+2023,443,2,-1,Start of game,366,0,368,0,368,0,366,0,1,True,0,,,,,,
+2023,443,2,1,S McKinney flied out to cf (3-1 FBBB).,366,0,368,0,368,0,366,0,1,True,0,,F8,8,,655,658
+2023,443,2,2,M Zerkle singled up the middle (1-1 BF).,366,0,368,0,368,0,366,0,1,True,1,,1B MI,8,middle,84,658
+2023,443,2,3,"M Davidson homered to center field, 2 RBI (1-0 B); M Zerkle scored.",366,0,368,2,368,2,366,0,1,True,1,368,HR 8 RBI2,8,center field,310,658
+2023,443,2,4,A Urtez walked (3-0 BBBB).,366,0,368,2,368,2,366,0,1,True,1,368,BB,0,,9,658
+2023,443,2,5,A Urtez advanced to second on a wild pitch.,366,0,368,2,368,2,366,0,1,True,1,368,,,,,
+2023,443,2,6,J Warren flied out to lf (3-2 BFBFB); A Urtez advanced to third.,366,0,368,2,368,2,366,0,1,True,1,368,F7,7,,30,658
+2023,443,2,7,"M Wiggins singled to center field, RBI (3-2 BBKKBF); A Urtez scored.",366,0,368,3,368,3,366,0,1,True,2,368,1B 8 RBI,8,center field,48,658
+2023,443,2,8,N Taylor struck out swinging (2-2 KKFFBBS).,366,0,368,3,368,3,366,0,1,True,2,368,KS,0,,39,658
+2023,443,2,9,H McCleney flied out to rf (0-2 FF).,366,0,368,3,366,0,368,3,1,False,0,368,F9,9,,28,307
+2023,443,2,10,A Lorenz grounded out to 2b (2-2 BKFB).,366,0,368,3,366,0,368,3,1,False,1,368,43,4,,159,307
+2023,443,2,11,S Fischer struck out looking (0-2 FSK).,366,0,368,3,366,0,368,3,1,False,2,368,KL,0,,37,307
+2023,443,2,12,B Yanez to p for E Hightower.,366,0,368,3,368,3,366,0,2,True,0,368,,,,,
+2023,443,2,13,A Filler singled up the middle (3-2 KBKBFB).,366,0,368,3,368,3,366,0,2,True,0,368,1B MI,8,middle,305,659
+2023,443,2,14,A Andrews struck out looking (1-2 KSBFK).,366,0,368,3,368,3,366,0,2,True,0,368,KL,0,,197,659
+2023,443,2,15,S McKinney singled to second base (0-2 FS); A Filler advanced to second.,366,0,368,3,368,3,366,0,2,True,1,368,1B 4,4,second base,655,659
+2023,443,2,16,M Zerkle grounded out to 2b (1-2 FBF); S McKinney advanced to second; A Filler advanced to third.,366,0,368,3,368,3,366,0,2,True,1,368,43,4,,84,659
+2023,443,2,17,R Garcia to p.,366,0,368,3,368,3,366,0,2,True,2,368,,,,,
+2023,443,2,18,/  for B Yanez.,366,0,368,3,368,3,366,0,2,True,2,368,,,,,
+2023,443,2,19,M Davidson struck out swinging (0-2 FFFS).,366,0,368,3,368,3,366,0,2,True,2,368,KS,0,,310,278
+2023,443,2,20,R Garcia struck out looking (1-2 FFBK).,366,0,368,3,366,0,368,3,2,False,0,368,KL,0,,278,307
+2023,443,2,21,S Rhodes singled to left field (3-1 BBKB).,366,0,368,3,366,0,368,3,2,False,1,368,1B 7,7,left field,297,307
+2023,443,2,22,"D Gibson hit into double play p to 1b to 3b, SAC, bunt (0-0); S Rhodes out on the play.",366,0,368,3,366,0,368,3,2,False,1,368,135 DP SAC BU,1,,308,307
+2023,443,2,23,A Urtez flied out to cf (3-2 BFBFFFBF).,366,0,368,3,368,3,366,0,3,True,0,368,F8,8,,9,278
+2023,443,2,24,"J Warren reached on a dropped fly by rf, advanced to second on the error (0-1 K).",366,0,368,3,368,3,366,0,3,True,1,368,E9D +E,9,,30,278
+2023,443,2,25,M Wiggins walked (3-2 KKFBBFBFFB).,366,0,368,3,368,3,366,0,3,True,1,368,BB,0,,48,278
+2023,443,2,26,N Taylor flied out to cf (1-1 FB).,366,0,368,3,368,3,366,0,3,True,1,368,F8,8,,39,278
+2023,443,2,27,"A Filler singled to left field, RBI (2-2 BFBK); M Wiggins advanced to second; J Warren scored, unearned.",366,0,368,4,368,4,366,0,3,True,2,368,1B 7 RBI,7,left field,305,278
+2023,443,2,28,"A Andrews singled down the lf line, RBI (0-0); A Filler advanced to second; M Wiggins scored, unearned.",366,0,368,5,368,5,366,0,3,True,2,368,1B LL RBI,7,lf line,197,278
+2023,443,2,29,S McKinney struck out looking (1-2 FKBK).,366,0,368,5,368,5,366,0,3,True,2,368,KL,0,,655,278
+2023,443,2,30,S Palacios lined out to 1b (0-0).,366,0,368,5,366,0,368,5,3,False,0,368,L3,3,,7,307
+2023,443,2,31,L Piper doubled to center field (1-0 B).,366,0,368,5,366,0,368,5,3,False,1,368,2B 8,8,center field,31,307
+2023,443,2,32,S Bates singled to left field (1-2 KBF); L Piper advanced to third.,366,0,368,5,366,0,368,5,3,False,1,368,1B 7,7,left field,198,307
+2023,443,2,33,"H McCleney reached on a fielder's choice, RBI (0-0); S Bates out at second 2b to ss; L Piper scored.",366,1,368,5,366,1,368,5,3,False,1,368,FC RBI,0,,28,307
+2023,443,2,34,A Lorenz walked (3-2 KFBBBB); H McCleney advanced to second.,366,1,368,5,366,1,368,5,3,False,2,368,BB,0,,159,307
+2023,443,2,35,"S Fischer reached on a fielding error by 1b (1-2 SBF); A Lorenz advanced to third; H McCleney scored, unearned.",366,2,368,5,366,2,368,5,3,False,2,368,E3F,3,,37,307
+2023,443,2,36,R Garcia popped up to 1b (0-0).,366,2,368,5,366,2,368,5,3,False,2,368,P3,3,,278,307
+2023,443,2,37,R Garcia to dp.,366,2,368,5,368,5,366,2,4,True,0,368,,,,,
+2023,443,2,38,B Yanez to p.,366,2,368,5,368,5,366,2,4,True,0,368,,,,,
+2023,443,2,39,M Zerkle struck out swinging (2-2 BBKSS).,366,2,368,5,368,5,366,2,4,True,0,368,KS,0,,84,659
+2023,443,2,40,M Davidson walked (3-2 BKBBKFB).,366,2,368,5,368,5,366,2,4,True,1,368,BB,0,,310,659
+2023,443,2,41,A Urtez grounded out to ss (1-1 KB); M Davidson advanced to second.,366,2,368,5,368,5,366,2,4,True,1,368,63,6,,9,659
+2023,443,2,42,J Warren hit by pitch (1-2 FSB).,366,2,368,5,368,5,366,2,4,True,2,368,HBP,0,,30,659
+2023,443,2,43,M Wiggins struck out looking (0-2 SSK).,366,2,368,5,368,5,366,2,4,True,2,368,KL,0,,48,659
+2023,443,2,44,S Rhodes walked (3-2 BFBBKFB).,366,2,368,5,366,2,368,5,4,False,0,368,BB,0,,297,307
+2023,443,2,45,D Gibson reached on a fielder's choice (0-0); S Rhodes out at second 2b to ss.,366,2,368,5,366,2,368,5,4,False,0,368,FC,0,,308,307
+2023,443,2,46,T Edwards pinch hit for S Palacios.,366,2,368,5,366,2,368,5,4,False,1,368,,,,,
+2023,443,2,47,"T Edwards homered to left field, 2 RBI (0-0); D Gibson scored.",366,4,368,5,366,4,368,5,4,False,1,368,HR 7 RBI2,7,left field,46,307
+2023,443,2,48,L Piper singled to left center (0-0).,366,4,368,5,366,4,368,5,4,False,1,368,1B LC,7,left center,31,307
+2023,443,2,49,S Bates singled to right field (2-2 KFBFB); L Piper advanced to third.,366,4,368,5,366,4,368,5,4,False,1,368,1B 9,9,right field,198,307
+2023,443,2,50,C Eberle to p for G Corrick.,366,4,368,5,366,4,368,5,4,False,1,368,,,,,
+2023,443,2,51,S Bates advanced to second on a passed ball.,366,4,368,5,366,4,368,5,4,False,1,368,,,,,
+2023,443,2,52,S Bates advanced to third; L Piper scored on a wild pitch.,366,5,368,5,366,5,368,5,4,False,1,,,,,,
+2023,443,2,53,"H McCleney grounded out to 2b, RBI (3-2 BFFBB); S Bates scored, unearned.",366,6,368,5,366,6,368,5,4,False,1,366,43 RBI,4,,28,196
+2023,443,2,54,Team Garcia challenges the play at first on McCleney's atbat Call Confirmed.,366,6,368,5,366,6,368,5,4,False,2,366,,,,,
+2023,443,2,55,No play.,366,6,368,5,366,6,368,5,4,False,2,366,/,0,,159,
+2023,443,2,56,A Lorenz grounded out to 2b (1-0 B).,366,6,368,5,366,6,368,5,4,False,2,366,43,4,,159,196
+2023,443,2,57,T Edwards to c.,366,6,368,5,368,5,366,6,5,True,0,366,,,,,
+2023,443,2,58,N Taylor struck out swinging (2-2 BKBFFFS).,366,6,368,5,368,5,366,6,5,True,0,366,KS,0,,39,659
+2023,443,2,59,"A Filler homered to left center, RBI (1-1 KB).",366,6,368,6,368,6,366,6,5,True,1,,HR LC RBI,7,left center,305,659
+2023,443,2,60,A Andrews struck out swinging (1-2 KKFBFS).,366,6,368,6,368,6,366,6,5,True,1,,KS,0,,197,659
+2023,443,2,61,S McKinney struck out swinging (1-2 KBFS).,366,6,368,6,368,6,366,6,5,True,2,,KS,0,,655,659
+2023,443,2,62,S Fischer reached on a fielding error by 3b (1-2 KFB).,366,6,368,6,366,6,368,6,5,False,0,,E5F,5,,37,196
+2023,443,2,63,R Garcia walked (3-2 BKBFBB); S Fischer advanced to second.,366,6,368,6,366,6,368,6,5,False,0,,BB,0,,278,196
+2023,443,2,64,A Ramirez pinch ran for R Garcia.,366,6,368,6,366,6,368,6,5,False,0,,,,,,
+2023,443,2,65,S Rhodes reached on a fielder's choice (2-2 BKSB); A Ramirez out at second 2b to ss; S Fischer advanced to third.,366,6,368,6,366,6,368,6,5,False,0,,FC,0,,297,196
+2023,443,2,66,D Wisz to 3b for J Warren.,366,6,368,6,366,6,368,6,5,False,1,,,,,,
+2023,443,2,67,D Gibson grounded out to ss (1-2 BSF); S Rhodes advanced to second.,366,6,368,6,366,6,368,6,5,False,1,,63,6,,308,196
+2023,443,2,68,T Edwards struck out looking (3-2 BFFBBFK).,366,6,368,6,366,6,368,6,5,False,2,,KL,0,,46,196
+2023,443,2,69,"M Zerkle singled to third base, bunt (0-0).",366,6,368,6,368,6,366,6,6,True,0,,1B 5 BU,5,third base,84,659
+2023,443,2,70,M Davidson walked (3-2 FBBFBB); M Zerkle advanced to second.,366,6,368,6,368,6,366,6,6,True,0,,BB,0,,310,659
+2023,443,2,71,R Garcia to p for A Ramirez.,366,6,368,6,368,6,366,6,6,True,0,,,,,,
+2023,443,2,72,/  for B Yanez.,366,6,368,6,368,6,366,6,6,True,0,,,,,,
+2023,443,2,73,"A Urtez out at first p to 2b, SAC, bunt (0-0); M Davidson advanced to second; M Zerkle advanced to third.",366,6,368,6,368,6,366,6,6,True,0,,14 SAC BU,1,,9,278
+2023,443,2,74,Team Zerkle challenged the play at the plate. Call is confirmed.,366,6,368,6,368,6,366,6,6,True,1,,,,,,
+2023,443,2,75,D Wisz reached on a fielder's choice (1-2 BKS); M Davidson advanced to third; M Zerkle out at home 2b to c.,366,6,368,6,368,6,366,6,6,True,1,,FC,0,,657,278
+2023,443,2,76,"M Wiggins doubled to center field, 2 RBI (3-2 KBBBFFF); D Wisz scored; M Davidson scored.",366,6,368,8,368,8,366,6,6,True,2,368,2B 8 RBI2,8,center field,48,278
+2023,443,2,77,"N Taylor singled to left field, RBI (1-1 BF); M Wiggins scored.",366,6,368,9,368,9,366,6,6,True,2,368,1B 7 RBI,7,left field,39,278
+2023,443,2,78,A Filler popped up to 3b (1-0 B).,366,6,368,9,368,9,366,6,6,True,2,368,P5,5,,305,278
+2023,443,2,79,L Piper singled to shortstop (1-0 B).,366,6,368,9,366,6,368,9,6,False,0,368,1B 6,6,shortstop,31,196
+2023,443,2,80,S Bates grounded out to 2b; L Piper advanced to second.,366,6,368,9,366,6,368,9,6,False,0,368,43,4,,198,196
+2023,443,2,81,L Piper advanced to third on a wild pitch.,366,6,368,9,366,6,368,9,6,False,1,368,,,,,
+2023,443,2,82,H McCleney struck out looking (3-2 BBKBKK).,366,6,368,9,366,6,368,9,6,False,1,368,KL,0,,28,196
+2023,443,2,83,A Lorenz flied out to lf (0-1 K).,366,6,368,9,366,6,368,9,6,False,2,368,F7,7,,159,196
+2023,443,2,84,R Garcia to dp.,366,6,368,9,368,9,366,6,7,True,0,368,,,,,
+2023,443,2,85,O Alexander to p.,366,6,368,9,368,9,366,6,7,True,0,368,,,,,
+2023,443,2,86,A Andrews singled up the middle (0-2 KF).,366,6,368,9,368,9,366,6,7,True,0,368,1B MI,8,middle,197,169
+2023,443,2,87,S McKinney grounded out to 3b (0-0); A Andrews advanced to second.,366,6,368,9,368,9,366,6,7,True,0,368,53,5,,655,169
+2023,443,2,88,M Zerkle grounded out to 3b (0-1 K); A Andrews advanced to third.,366,6,368,9,368,9,366,6,7,True,1,368,53,5,,84,169
+2023,443,2,89,M Davidson fouled out to c (2-2 BBSK).,366,6,368,9,368,9,366,6,7,True,2,368,FF2,2,,310,169
+2023,443,2,90,S Fischer singled up the middle (1-1 BS).,366,6,368,9,366,6,368,9,7,False,0,368,1B MI,8,middle,37,196
+2023,443,2,91,R Garcia struck out looking (2-2 KBSBK).,366,6,368,9,366,6,368,9,7,False,0,368,KL,0,,278,196
+2023,443,2,92,S Rhodes grounded out to p (3-2 KFBBB); S Fischer advanced to second.,366,6,368,9,366,6,368,9,7,False,1,368,13,1,,297,196
+2023,443,2,93,"D Gibson doubled to center field, RBI (1-0 B); S Fischer scored.",366,7,368,9,366,7,368,9,7,False,2,368,2B 8 RBI,8,center field,308,196
+2023,443,2,94,T Edwards walked (3-1 FBBBB).,366,7,368,9,366,7,368,9,7,False,2,368,BB,0,,46,196
+2023,443,2,95,L Piper popped up to ss (0-1 F).,366,7,368,9,366,7,368,9,7,False,2,368,P6,6,,31,196
