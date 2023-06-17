@@ -176,10 +176,10 @@ season,game_id,game_number,play_seq_num,narrative,home_team_id,home_team_score,a
 2023,443,2,95,L Piper popped up to ss (0-1 F).,366,7,368,9,366,7,368,9,7,False,2,368,P6,6,,31,196
 2023,444,3,-1,Start of game,367,0,368,0,368,0,367,0,1,True,0,,,,,,
 2023,444,3,1,S McKinney tripled to center field (2-2 BSFB).,367,0,368,0,368,0,367,0,1,True,0,,3B CF,8,center field,655,325
-2023,444,3,2,"M Zerkle reached on a throwing error by 3b, bunt, advanced to second on the throw (1-1 BK); S McKinney scored.",367,0,368,1,368,1,367,0,1,True,0,368,E5T BU T,5,,84,325
+2023,444,3,2,"M Zerkle singled to third base, bunt, advanced to second on a throwing error by 3b (1-1 BK); S McKinney scored.",367,0,368,1,368,1,367,0,1,True,0,368,1B 5 BU E5T,5,third base,84,325
 2023,444,3,3,M Zerkle advanced to third on a wild pitch.,367,0,368,1,368,1,367,0,1,True,0,368,,,,,
 2023,444,3,4,M Davidson walked (3-1 BBBFB).,367,0,368,1,368,1,367,0,1,True,0,368,BB,0,,310,325
-2023,444,3,5,"A Urtez singled up the middle, RBI (2-2 FBFFBFF); M Davidson advanced to second; M Zerkle scored, unearned.",367,0,368,2,368,2,367,0,1,True,0,368,1B MI RBI,8,middle,9,325
+2023,444,3,5,"A Urtez singled up the middle, RBI (2-2 FBFFBFF); M Davidson advanced to second; M Zerkle scored.",367,0,368,2,368,2,367,0,1,True,0,368,1B MI RBI,8,middle,9,325
 2023,444,3,6,"J Warren homered to left field, 3 RBI (0-2 FK); A Urtez scored; M Davidson scored.",367,0,368,5,368,5,367,0,1,True,0,368,HR LF RBI3,7,left field,30,325
 2023,444,3,7,M Faraimo to p for M Mazon.,367,0,368,5,368,5,367,0,1,True,0,368,,,,,
 2023,444,3,8,M Wiggins walked (3-2 BKKBBFB).,367,0,368,5,368,5,367,0,1,True,0,368,BB,0,,48,656
