@@ -690,8 +690,8 @@ season,game_id,game_number,play_seq_num,narrative,home_team_id,home_team_score,a
 2023,450,9,9,"M Zerkle singled, bunt, advanced to second on a throwing error by p (1-2 FKB).",371,0,369,1,369,1,371,0,2,True,0,369,1B BU E1T,1,,84,659
 2023,450,9,10,"S Bates singled up the middle, RBI (0-1 K); M Zerkle scored.",371,0,369,2,369,2,371,0,2,True,0,369,1B MI RBI,8,middle,198,659
 2023,450,9,11,"J Roberts doubled to left center, RBI (2-2 BKSB); S Bates scored.",371,0,369,3,369,3,371,0,2,True,0,369,2B LC RBI,7,left center,34,659
-2023,450,9,12,"A Andrews singled, bunt, out at first c to ss to 1b (0-0); J Roberts advanced to third.",371,0,369,3,369,3,371,0,2,True,0,369,1B BU 263,2,,197,659
-2023,450,9,13,"A Leach reached on a fielding error by 1b, advanced to second on the error, out at second 3b to 1b to ss (0-1 K); J Roberts scored.",371,0,369,4,369,4,371,0,2,True,1,369,E3F +E 536,3,,69,659
+2023,450,9,12,"A Andrews singled, bunt, out at first 3b to cf to 1b (0-0); J Roberts advanced to third.",371,0,369,3,369,3,371,0,2,True,0,369,1B BU 583,5,,197,659
+2023,450,9,13,"A Leach reached on a fielding error by 1b, advanced to second on the error, out at second 3b to 2b to ss (0-1 K); J Roberts scored.",371,0,369,4,369,4,371,0,2,True,1,369,E3F +E 546,3,,69,659
 2023,450,9,14,T Vidales singled to center field.,371,0,369,4,369,4,371,0,2,True,2,369,1B CF,8,center field,29,659
 2023,450,9,15,D Gibson grounded out to 1b unassisted (1-2 BFF).,371,0,369,4,369,4,371,0,2,True,2,369,3U,3,,308,659
 2023,450,9,16,"T Edwards reached on a throwing error by ss, advanced to second (2-2 KBBF).",371,0,369,4,371,0,369,4,2,False,0,369,E6T +,6,,46,656
@@ -741,7 +741,7 @@ season,game_id,game_number,play_seq_num,narrative,home_team_id,home_team_score,a
 2023,450,9,60,M Wiggins singled through the left side (3-1 KBBB).,371,0,369,9,371,0,369,9,5,False,0,369,1B LS,7,left side,48,656
 2023,450,9,61,H McCleney popped up to ss (0-0).,371,0,369,9,371,0,369,9,5,False,0,369,P6,6,,28,656
 2023,450,9,62,A Urtez struck out swinging (1-2 BFFS).,371,0,369,9,371,0,369,9,5,False,1,369,KS,0,,9,656
-2023,450,9,63,"A Lorenz singled to right field, advanced to second on the throw, RBI (3-2 KFFBBB); M Wiggins scored.",371,1,369,9,371,1,369,9,5,False,2,369,1B RF T RBI,9,right field,159,656
+2023,450,9,63,"A Lorenz doubled to right field, RBI (3-2 KFFBBB); M Wiggins scored.",371,1,369,9,371,1,369,9,5,False,2,369,2B 9 RBI,9,right field,159,656
 2023,450,9,64,T Edwards flied out to lf (3-1 BFBB).,371,1,369,9,371,1,369,9,5,False,2,369,F7,7,,46,656
 2023,450,9,65,D Gibson lined out to 2b (1-0 B).,371,1,369,9,369,9,371,1,6,True,0,369,L4,4,,308,299
 2023,450,9,66,S Fischer singled to center field (1-2 FBF).,371,1,369,9,369,9,371,1,6,True,1,369,1B CF,8,center field,37,299
