@@ -1,5 +1,5 @@
 sport,season,seasonId,teamId,G,periodsPlayed,goals,assists,points,shots,turnovers,causedTurnovers,groundballs,twoPointGoals,drawControls,shotsSaved,shotsOnGoal,yellowCards,redCards,shotClockViolationsCommitted,shotClockViolationsDrawn,auTotalPoints,goalie_gamesPlayed,goalie_gamesStarted,goalie_goalsAgainst,goalie_saves,goalie_shotsFaced,goalie_shotClockViolationsCommitted,goalie_shotClockViolationsDrawn,shotPct,sogPct,goalie_savePct
-lacrosse,2023,105,350,1,56,8,5,13,17,13,10,17,0,4,8,16,0,0,0,28,1735,14,10,4,13,17,0,2,0.471,0.941,0.235
-lacrosse,2023,105,351,1,56,10,3,14,23,16,8,15,1,11,6,16,0,0,28,0,1405,14,10,8,11,19,2,0,0.435,0.696,0.421
-lacrosse,2023,105,352,1,56,8,3,13,28,14,15,18,2,11,11,19,0,0,0,28,818,14,10,10,6,16,0,4,0.286,0.679,0.625
-lacrosse,2023,105,353,1,56,4,0,4,31,12,8,12,0,11,13,17,0,0,28,0,390,14,10,8,8,16,2,0,0.129,0.548,0.5
+lacrosse,2023,105,350,2,112,15,7,22,35,23,19,30,0,10,15,30,0,0,56,56,2910,28,20,10,22,32,4,4,0.429,0.857,0.312
+lacrosse,2023,105,351,2,112,18,6,25,54,29,19,34,1,25,20,38,0,0,28,0,1562,28,20,21,16,37,2,0,0.333,0.704,0.568
+lacrosse,2023,105,352,2,112,14,5,21,56,24,23,33,2,22,20,34,0,0,28,84,1801,28,20,17,13,30,4,12,0.25,0.607,0.567
+lacrosse,2023,105,353,2,112,17,8,26,58,30,18,24,1,22,18,35,0,0,28,0,2464,28,20,16,22,38,2,0,0.293,0.603,0.421
