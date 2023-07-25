@@ -1,5 +1,5 @@
 sport,season,seasonId,teamId,G,periodsPlayed,goals,assists,points,shots,turnovers,causedTurnovers,groundballs,twoPointGoals,drawControls,shotsSaved,shotsOnGoal,yellowCards,redCards,shotClockViolationsCommitted,shotClockViolationsDrawn,auTotalPoints,goalie_gamesPlayed,goalie_gamesStarted,goalie_goalsAgainst,goalie_saves,goalie_shotsFaced,goalie_shotClockViolationsCommitted,goalie_shotClockViolationsDrawn,shotPct,sogPct,goalie_savePct
 lacrosse,2023,105,350,3,168,17,8,25,53,34,27,40,0,16,21,38,0,0,84,84,2990,42,30,18,32,50,6,6,0.321,0.717,0.36
 lacrosse,2023,105,351,3,168,26,9,37,81,36,27,47,2,33,30,56,0,0,56,28,3609,42,30,23,23,46,4,2,0.321,0.691,0.5
-lacrosse,2023,105,352,3,168,23,8,34,81,36,29,45,3,35,27,50,0,0,42,112,2515,42,30,30,19,49,6,16,0.284,0.617,0.612
+lacrosse,2023,105,352,3,168,23,8,34,81,36,30,45,3,35,27,50,0,0,42,112,2529,42,30,30,19,49,6,16,0.284,0.617,0.612
 lacrosse,2023,105,353,3,168,30,17,49,88,40,28,39,2,35,25,55,0,0,56,14,4009,42,30,25,29,54,4,1,0.341,0.625,0.463
