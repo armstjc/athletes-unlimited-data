@@ -1,0 +1,5 @@
+sport,api_version,season,seasonId,week_number,game_number,season_type,playerId,uniformNumber,uniformNumberDisplay,primaryPositionLk,secondaryPositionLk,first_name,last_name,full_name,player_id,uniform_number,uniform_number_display,primary_position_lk,secondary_position_lk,team_id,sets_played,kills,kills_per_set,attack_errors,attack_attempts,attack_percentage,assists,assists_per_set,setting_errors,service_errors,service_aces,service_aces_per_set,total_reception_attempts,reception_errors,positive_reception_pct,digs,digs_per_set,blocks,blocks_per_set,au_total_points
+volleyball,v1,2023,138,1,1,Championship,,,None,,,,,None None,,,None,,,385,23,47,2.04,8,112,0.35,47,2.04,1,2,7,0.09,59,3,0.39,40,1.74,10,0.43,2725
+volleyball,v1,2023,138,1,1,Championship,,,None,,,,,None None,,,None,,,384,24,43,1.79,19,117,0.21,37,1.54,0,3,6,0.13,66,2,0.55,46,1.92,5,0.21,483
+volleyball,v1,2023,138,2,1,Championship,,,None,,,,,None None,,,None,,,383,25,50,2.0,13,136,0.27,48,1.92,1,4,5,0.16,71,4,0.51,47,1.88,6,0.24,1103
+volleyball,v1,2023,138,2,1,Championship,,,None,,,,,None None,,,None,,,386,24,54,2.25,14,121,0.33,50,2.08,0,4,4,0.17,69,4,0.38,56,2.33,11,0.46,2238
