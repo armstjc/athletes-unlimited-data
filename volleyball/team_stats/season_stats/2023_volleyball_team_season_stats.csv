@@ -1,5 +1,5 @@
 sport,season,seasonId,team_id,G,sets_played,kills,attack_errors,attack_attempts,assists,setting_errors,service_errors,service_aces,total_reception_attempts,reception_errors,digs,blocks,au_total_points,kills_per_set,attack_percentage,assists_per_set,service_aces_per_set,digs_per_set,blocks_per_set
-volleyball,2023,138,383,1,25,50,13,136,48,1,4,5,71,4,47,6,1103,2.0,0.272,1.92,0.2,1.88,0.24
-volleyball,2023,138,384,1,24,43,19,117,37,0,3,6,66,2,46,5,483,1.792,0.205,1.542,0.25,1.917,0.208
-volleyball,2023,138,385,1,23,47,8,112,47,1,2,7,59,3,40,10,2725,2.043,0.348,2.043,0.304,1.739,0.435
-volleyball,2023,138,386,1,24,54,14,121,50,0,4,4,69,4,56,11,2238,2.25,0.331,2.083,0.167,2.333,0.458
+volleyball,2023,138,383,2,50,98,26,242,95,2,5,11,136,9,93,15,2636,1.96,0.298,1.9,0.22,1.86,0.3
+volleyball,2023,138,384,2,51,80,47,248,71,1,4,9,136,2,97,9,834,1.569,0.133,1.392,0.176,1.902,0.176
+volleyball,2023,138,385,2,50,91,23,229,85,1,7,12,122,4,80,16,4451,1.82,0.297,1.7,0.24,1.6,0.32
+volleyball,2023,138,386,2,48,97,30,245,90,0,4,8,125,5,105,29,5053,2.021,0.273,1.875,0.167,2.188,0.604
