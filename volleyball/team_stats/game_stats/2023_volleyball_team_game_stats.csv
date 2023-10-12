@@ -1,13 +1,13 @@
 sport,api_version,season,seasonId,week_number,game_number,season_type,playerId,uniformNumber,uniformNumberDisplay,primaryPositionLk,secondaryPositionLk,first_name,last_name,full_name,player_id,uniform_number,uniform_number_display,primary_position_lk,secondary_position_lk,team_id,sets_played,kills,kills_per_set,attack_errors,attack_attempts,attack_percentage,assists,assists_per_set,setting_errors,service_errors,service_aces,service_aces_per_set,total_reception_attempts,reception_errors,positive_reception_pct,digs,digs_per_set,blocks,blocks_per_set,au_total_points
 volleyball,v1,2023,138,1,1,Championship,,,None,,,,,None None,,,None,,,385,23,47,2.04,8,112,0.35,47,2.04,1,2,7,0.09,59,3,0.39,40,1.74,10,0.43,2725
 volleyball,v1,2023,138,1,1,Championship,,,None,,,,,None None,,,None,,,384,24,43,1.79,19,117,0.21,37,1.54,0,3,6,0.13,66,2,0.55,46,1.92,5,0.21,483
-volleyball,v1,2023,138,2,1,Championship,,,None,,,,,None None,,,None,,,383,25,50,2.0,13,136,0.27,48,1.92,1,4,5,0.16,71,4,0.51,47,1.88,6,0.24,1103
-volleyball,v1,2023,138,2,1,Championship,,,None,,,,,None None,,,None,,,386,24,54,2.25,14,121,0.33,50,2.08,0,4,4,0.17,69,4,0.38,56,2.33,11,0.46,2238
+volleyball,v1,2023,138,2,1,Championship,,,None,,,,,None None,,,None,,,383,25,50,2.0,13,136,0.27,48,1.92,1,4,5,0.16,71,4,0.51,47,1.88,6,0.24,1047
+volleyball,v1,2023,138,2,1,Championship,,,None,,,,,None None,,,None,,,386,24,54,2.25,14,121,0.33,50,2.08,0,4,4,0.17,69,4,0.38,56,2.33,11,0.46,2155
 volleyball,v1,2023,138,3,1,Championship,,,None,,,,,None None,,,None,,,386,24,43,1.79,16,124,0.22,40,1.67,0,0,4,0.0,56,1,0.73,49,2.04,18,0.75,2813
 volleyball,v1,2023,138,3,1,Championship,,,None,,,,,None None,,,None,,,384,27,37,1.37,28,131,0.07,34,1.26,1,1,3,0.04,70,0,0.53,51,1.89,4,0.15,349
 volleyball,v1,2023,138,4,1,Championship,,,None,,,,,None None,,,None,,,385,27,44,1.63,15,117,0.25,38,1.41,0,5,5,0.19,63,1,0.56,40,1.48,6,0.22,1726
 volleyball,v1,2023,138,4,1,Championship,,,None,,,,,None None,,,None,,,383,25,48,1.92,13,106,0.33,47,1.88,1,1,6,0.04,65,5,0.63,46,1.84,9,0.36,1533
-volleyball,v1,2023,138,5,1,Championship,,,None,,,,,None None,,,None,,,386,24,38,1.58,7,100,0.31,35,1.46,2,3,3,0.13,40,0,0.53,58,2.42,12,0.5,2835
+volleyball,v1,2023,138,5,1,Championship,,,None,,,,,None None,,,None,,,386,24,38,1.58,7,100,0.31,35,1.46,2,3,3,0.13,40,0,0.53,58,2.42,12,0.5,2833
 volleyball,v1,2023,138,5,1,Championship,,,None,,,,,None None,,,None,,,385,23,32,1.39,26,125,0.05,30,1.3,1,0,6,0.0,70,3,0.53,44,1.91,2,0.09,198
-volleyball,v1,2023,138,6,1,Championship,,,None,,,,,None None,,,None,,,384,25,44,1.76,14,114,0.26,40,1.6,1,2,4,0.08,62,3,0.52,43,1.72,10,0.4,1493
-volleyball,v1,2023,138,6,1,Championship,,,None,,,,,None None,,,None,,,383,24,46,1.92,15,116,0.27,41,1.71,0,3,8,0.13,64,2,0.39,45,1.88,6,0.25,1708
+volleyball,v1,2023,138,6,1,Championship,,,None,,,,,None None,,,None,,,384,32,44,1.38,14,120,0.25,40,1.25,1,2,4,0.06,65,3,0.51,45,1.41,11,0.34,1471
+volleyball,v1,2023,138,6,1,Championship,,,None,,,,,None None,,,None,,,383,31,51,1.65,16,124,0.28,46,1.48,1,3,9,0.1,68,2,0.41,51,1.65,6,0.19,1704
