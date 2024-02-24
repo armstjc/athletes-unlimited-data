@@ -21,8 +21,8 @@ basketball,v1,Player,305,1,2023,73,1,1,Championship,624,69,69,GD,,Kierstan,Bell,
 basketball,v1,Player,305,1,2023,73,1,1,Championship,566,11,11,GD,,Lexie,Hull,Lexie Hull,1,26,2,8,0.25,0,4,0.0,2,4,0.5,0,0,,0,4,4,1,1,2,1,4,86,0.25,0.25,0,0,1,1,0,0,0,0,14.139999999999999
 basketball,v1,Player,305,1,2023,73,1,1,Championship,245,33,33,GDFD,,Antoinette,Bannister,Antoinette Bannister,0,0,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,50,,,0,0,0,0,0,0,0,0,0.0
 basketball,v1,Player,305,1,2023,73,1,1,Championship,229,32,32,CTR,,Akela,Maize,Akela Maize,1,4,0,1,0.0,0,1,0.0,0,0,,0,0,,0,0,0,0,0,0,0,0,40,0.0,0.0,0,0,0,0,0,0,0,0,0.0
-basketball,v1,Player,304,0,2023,73,1,2,Championship,562,7,7,GDFD,,Whitney,Knight,Whitney Knight,1,2,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,242,,,0,0,1,0,0,0,0,0,-0.4
 basketball,v1,Player,304,0,2023,73,1,2,Championship,241,90,90,GDFD,,MeMe,Jackson,MeMe Jackson,1,6,0,1,0.0,0,1,0.0,0,0,,1,1,1.0,0,1,1,1,0,0,0,1,261,0.0,0.347,1,1,0,0,0,0,0,0,2.0
+basketball,v1,Player,304,0,2023,73,1,2,Championship,562,7,7,GDFD,,Whitney,Knight,Whitney Knight,1,2,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,242,,,0,0,1,0,0,0,0,0,-0.4
 basketball,v1,Player,304,0,2023,73,1,2,Championship,210,5,5,GD,,Essence,Carson,Essence Carson,1,21,3,7,0.429,0,3,0.0,3,4,0.75,2,2,1.0,0,4,4,1,0,1,2,8,310,0.429,0.508,1,1,0,1,0,0,0,0,12.529999999999998
 basketball,v1,Player,304,0,2023,73,1,2,Championship,556,13,13,FWD,,Kristi,Bellock,Kristi Bellock,1,22,1,5,0.2,0,2,0.0,1,3,0.333,0,0,,2,1,3,2,3,0,0,2,297,0.2,0.2,1,0,0,0,0,0,0,0,8.5
 basketball,v1,Player,304,0,2023,73,1,2,Championship,570,91,91,FWD,,G'mrice,Davis,G'mrice Davis,1,24,6,8,0.75,0,0,,6,8,0.75,1,3,0.333,1,5,6,0,1,0,3,13,315,0.75,0.697,1,2,3,0,1,0,0,0,13.600000000000001
@@ -127,8 +127,8 @@ basketball,v1,Player,304,1,2023,73,1,6,Championship,557,3,3,GD,,Jordin,Canada,Jo
 basketball,v1,Player,304,1,2023,73,1,6,Championship,232,24,24,GD,,Destinee,Walker,Destinee Walker,1,18,1,7,0.143,0,4,0.0,1,3,0.333,0,0,,0,1,1,1,0,0,0,2,-25,0.143,0.143,0,0,0,0,0,0,0,0,3.3999999999999995
 basketball,v1,Player,304,1,2023,73,1,6,Championship,241,90,90,GDFD,,MeMe,Jackson,MeMe Jackson,1,3,0,2,0.0,0,1,0.0,0,1,0.0,0,0,,0,1,1,0,0,0,0,0,-23,0.0,0.0,1,0,0,0,0,0,0,0,0.3
 basketball,v1,Player,304,1,2023,73,1,6,Championship,570,91,91,FWD,,G'mrice,Davis,G'mrice Davis,1,26,8,14,0.571,0,0,,8,14,0.571,2,2,1.0,2,6,8,1,1,2,2,18,162,0.571,0.605,1,1,1,0,1,0,0,0,37.419999999999995
-basketball,v1,Player,304,1,2023,73,1,6,Championship,205,9,9,GD,,Natasha,Cloud,Natasha Cloud,1,32,2,12,0.167,0,4,0.0,2,8,0.25,7,7,1.0,0,3,3,3,1,0,4,11,9,0.167,0.365,3,4,1,0,0,0,0,0,11.4
 basketball,v1,Player,304,1,2023,73,1,6,Championship,567,36,36,GD,,Suriya,McGuire,Suriya McGuire,1,12,1,3,0.333,0,0,,1,3,0.333,1,2,0.5,0,0,0,0,0,1,0,3,14,0.333,0.387,0,1,0,0,0,0,0,0,4.469999999999999
+basketball,v1,Player,304,1,2023,73,1,6,Championship,205,9,9,GD,,Natasha,Cloud,Natasha Cloud,1,32,2,12,0.167,0,4,0.0,2,8,0.25,7,7,1.0,0,3,3,3,1,0,4,11,9,0.167,0.365,3,4,1,0,0,0,0,0,11.4
 basketball,v1,Player,304,1,2023,73,1,6,Championship,210,5,5,GD,,Essence,Carson,Essence Carson,1,14,1,5,0.2,0,2,0.0,1,3,0.333,0,0,,0,0,0,0,1,0,1,2,-28,0.2,0.2,1,0,0,0,0,0,0,0,2.4
 basketball,v1,Player,304,1,2023,73,1,6,Championship,556,13,13,FWD,,Kristi,Bellock,Kristi Bellock,1,20,1,5,0.2,0,0,,1,5,0.2,0,0,,4,0,4,0,1,0,2,2,-6,0.2,0.2,0,0,0,0,1,0,0,0,4.199999999999999
 basketball,v1,Player,310,0,2023,73,2,7,Championship,249,63,63,GD,,CC,Andrews,CC Andrews,0,0,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,300,,,0,0,0,0,0,0,0,0,0.0
@@ -548,8 +548,8 @@ basketball,v1,Player,321,1,2023,73,5,25,Championship,625,26,26,FWD,,Lydia,Rivers
 basketball,v1,Player,321,1,2023,73,5,25,Championship,566,11,11,GD,,Lexie,Hull,Lexie Hull,1,38,4,10,0.4,2,8,0.25,2,2,1.0,3,4,0.75,2,2,4,5,1,0,2,13,206,0.5,0.553,3,2,1,0,0,0,0,0,18.300000000000004
 basketball,v1,Player,320,0,2023,73,5,26,Championship,624,69,69,GD,,Kierstan,Bell,Kierstan Bell,1,35,10,18,0.556,3,8,0.375,7,10,0.7,0,0,,1,6,7,1,1,0,4,23,234,0.639,0.639,2,0,0,0,0,0,0,0,27.2
 basketball,v1,Player,320,0,2023,73,5,26,Championship,206,51,51,GD,,Sydney,Colson,Sydney Colson,1,35,3,11,0.273,1,5,0.2,2,6,0.333,1,2,0.5,0,2,2,4,1,0,0,8,96,0.318,0.337,0,1,1,0,0,0,0,0,12.799999999999997
-basketball,v1,Player,320,0,2023,73,5,26,Championship,562,7,7,GDFD,,Whitney,Knight,Whitney Knight,0,0,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,50,,,0,0,0,0,0,0,0,0,0.0
 basketball,v1,Player,320,0,2023,73,5,26,Championship,556,13,13,FWD,,Kristi,Bellock,Kristi Bellock,1,13,0,2,0.0,0,0,,0,2,0.0,0,0,,2,1,3,0,0,1,0,0,57,0.0,0.0,1,0,0,0,0,0,0,0,2.6799999999999997
+basketball,v1,Player,320,0,2023,73,5,26,Championship,562,7,7,GDFD,,Whitney,Knight,Whitney Knight,0,0,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,50,,,0,0,0,0,0,0,0,0,0.0
 basketball,v1,Player,320,0,2023,73,5,26,Championship,561,31,31,FWD,,N'dea,Jones,N'dea Jones,1,29,3,3,1.0,0,0,,3,3,1.0,4,4,1.0,3,8,11,2,2,1,1,10,272,1.0,1.05,1,2,0,1,0,1,1,0,19.569999999999997
 basketball,v1,Player,320,0,2023,73,5,26,Championship,567,36,36,GD,,Suriya,McGuire,Suriya McGuire,0,0,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,50,,,0,0,0,0,0,0,0,0,0.0
 basketball,v1,Player,320,0,2023,73,5,26,Championship,250,3,3,FWD,,Danni,McCray,Danni McCray,1,24,0,1,0.0,0,1,0.0,0,0,,4,4,1.0,2,1,3,0,1,0,1,4,121,0.0,0.725,0,2,0,0,0,1,0,0,5.7
@@ -601,9 +601,9 @@ basketball,v1,Player,322,0,2023,73,5,28,Championship,560,16,16,FWD,,Naz,Hillmon,
 basketball,v1,Player,322,0,2023,73,5,28,Championship,207,1,1,GDFD,,Ty,Young,Ty Young,1,12,1,1,1.0,0,0,,1,1,1.0,0,2,0.0,1,1,2,1,0,0,0,2,321,1.0,0.532,1,0,0,1,0,0,0,0,3.3
 basketball,v1,Player,320,1,2023,73,5,28,Championship,567,36,36,GD,,Suriya,McGuire,Suriya McGuire,1,2,0,0,,0,0,,0,0,,0,0,,0,1,1,0,0,0,1,0,37,,,1,0,0,0,0,0,0,0,-0.7
 basketball,v1,Player,320,1,2023,73,5,28,Championship,624,69,69,GD,,Kierstan,Bell,Kierstan Bell,1,32,4,10,0.4,0,4,0.0,4,6,0.667,0,0,,1,6,7,2,0,0,0,8,126,0.4,0.4,1,0,0,1,0,0,0,0,13.499999999999998
-basketball,v1,Player,320,1,2023,73,5,28,Championship,562,7,7,GDFD,,Whitney,Knight,Whitney Knight,0,0,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,50,,,0,0,0,0,0,0,0,0,0.0
 basketball,v1,Player,320,1,2023,73,5,28,Championship,211,99,99,GD,,Odyssey,Sims,Odyssey Sims,1,38,14,27,0.519,1,3,0.333,13,24,0.542,9,9,1.0,1,6,7,6,2,0,5,38,428,0.537,0.614,0,5,1,4,0,0,0,0,46.9
 basketball,v1,Player,320,1,2023,73,5,28,Championship,561,31,31,FWD,,N'dea,Jones,N'dea Jones,1,25,5,9,0.556,0,0,,5,9,0.556,2,3,0.667,3,5,8,0,0,2,1,12,153,0.556,0.581,4,2,1,0,0,0,0,0,24.620000000000005
+basketball,v1,Player,320,1,2023,73,5,28,Championship,562,7,7,GDFD,,Whitney,Knight,Whitney Knight,0,0,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,50,,,0,0,0,0,0,0,0,0,0.0
 basketball,v1,Player,320,1,2023,73,5,28,Championship,210,5,5,GD,,Essence,Carson,Essence Carson,1,31,4,9,0.444,3,6,0.5,1,3,0.333,1,2,0.5,1,3,4,1,1,1,1,12,143,0.611,0.607,0,1,2,0,0,0,0,0,19.11
 basketball,v1,Player,320,1,2023,73,5,28,Championship,225,30,15,GD,,Rebecca,Harris,Rebecca Harris,1,6,0,3,0.0,0,0,,0,3,0.0,0,0,,0,2,2,0,1,0,0,0,32,0.0,0.0,0,0,1,0,0,0,0,0,1.2000000000000002
 basketball,v1,Player,320,1,2023,73,5,28,Championship,250,3,3,FWD,,Danni,McCray,Danni McCray,1,8,0,0,,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,60,,,0,0,0,0,0,0,0,0,0.0
